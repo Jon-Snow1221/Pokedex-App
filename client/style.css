@@ -9,7 +9,7 @@
     font-family: sans-serif;
     justify-content: center;
     /* background-image: url("https://pbs.twimg.com/media/EqU-ITJXAAMtoYT?format=png&name=large"); */
-    background-image: url('./johto-background.jpeg');
+    background-image: url('/client/johto-background.jpeg');
     background-size: cover;
     font-family:"Fira Sans","Trebuchet MS",Helvetica,Arial,sans-serif;
   }
