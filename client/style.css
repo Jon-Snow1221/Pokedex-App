@@ -8,8 +8,7 @@ body {
   display: flex;
   font-family: sans-serif;
   justify-content: center;
-  /* background-image: url("https://pbs.twimg.com/media/EqU-ITJXAAMtoYT?format=png&name=large"); */
-  background-image: url('/client/johto-background.jpeg');
+  background-image: url('https://pbs.twimg.com/media/FCEsRpBVQAU3YN-?format=jpg&name=large');
   background-size: cover;
   font-family:"Fira Sans","Trebuchet MS",Helvetica,Arial,sans-serif;
 }
